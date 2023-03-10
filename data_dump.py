@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import os
 
-client = pymongo.MongoClient("mongodb+srv://Shivan:Shivan140306@cluster0.ga2wuns.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://mongodb:mongodb@cluster0.id3gb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 
 
 ROOT_DIR = os.getcwd()  #to get current working directory
