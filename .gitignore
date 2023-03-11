@@ -34,6 +34,7 @@ MANIFEST
 *.spec
 
 # Installer logs
+Insurance_log/
 pip-log.txt
 pip-delete-this-directory.txt
 
